@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>libplatform</name>
+  <version>1.0.0</version>
+  <description>Platform support library used by libCEC and Kodi add-ons</description>
+  <maintainer email="kineticgar@gmail.com">Garrett Brown</maintainer>
+  <author email="kineticgar@gmail.com">Garrett Brown</author>
+  <license>GPLv2</license>
+  <url type="website">https://github.com/kineticgar/libplatform</url>
+  <url type="repository">https://github.com/kineticgar/libplatform.git</url>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
